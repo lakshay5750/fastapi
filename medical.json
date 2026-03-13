@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Aarav",
+    "city": "Delhi",
+    "age": 25,
+    "gender": "Male",
+    "height": 172,
+    "weight": 68,
+    "bmi": 22.99,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Riya",
+    "city": "Mumbai",
+    "age": 23,
+    "gender": "Female",
+    "height": 160,
+    "weight": 50,
+    "bmi": 19.53,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Kabir",
+    "city": "Bangalore",
+    "age": 29,
+    "gender": "Male",
+    "height": 178,
+    "weight": 85,
+    "bmi": 26.83,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Ananya",
+    "city": "Pune",
+    "age": 21,
+    "gender": "Female",
+    "height": 158,
+    "weight": 44,
+    "bmi": 17.63,
+    "verdict": "Underweight"
+  },
+  {
+    "name": "Arjun",
+    "city": "Chennai",
+    "age": 32,
+    "gender": "Male",
+    "height": 180,
+    "weight": 95,
+    "bmi": 29.32,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Isha",
+    "city": "Hyderabad",
+    "age": 26,
+    "gender": "Female",
+    "height": 162,
+    "weight": 70,
+    "bmi": 26.67,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Rahul",
+    "city": "Delhi",
+    "age": 28,
+    "gender": "Male",
+    "height": 175,
+    "weight": 60,
+    "bmi": 19.59,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Sneha",
+    "city": "Kolkata",
+    "age": 24,
+    "gender": "Female",
+    "height": 165,
+    "weight": 55,
+    "bmi": 20.2,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Vikram",
+    "city": "Jaipur",
+    "age": 35,
+    "gender": "Male",
+    "height": 170,
+    "weight": 90,
+    "bmi": 31.14,
+    "verdict": "Obese"
+  },
+  {
+    "name": "Pooja",
+    "city": "Lucknow",
+    "age": 27,
+    "gender": "Female",
+    "height": 159,
+    "weight": 48,
+    "bmi": 18.99,
+    "verdict": "Normal"
+  },
+
+  {
+    "name": "Aditya",
+    "city": "Delhi",
+    "age": 30,
+    "gender": "Male",
+    "height": 182,
+    "weight": 77,
+    "bmi": 23.25,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Meera",
+    "city": "Mumbai",
+    "age": 22,
+    "gender": "Female",
+    "height": 155,
+    "weight": 42,
+    "bmi": 17.48,
+    "verdict": "Underweight"
+  },
+  {
+    "name": "Rohan",
+    "city": "Pune",
+    "age": 31,
+    "gender": "Male",
+    "height": 176,
+    "weight": 88,
+    "bmi": 28.41,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Kavya",
+    "city": "Chennai",
+    "age": 20,
+    "gender": "Female",
+    "height": 161,
+    "weight": 52,
+    "bmi": 20.06,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Manish",
+    "city": "Bangalore",
+    "age": 33,
+    "gender": "Male",
+    "height": 174,
+    "weight": 92,
+    "bmi": 30.39,
+    "verdict": "Obese"
+  },
+  {
+    "name": "Nisha",
+    "city": "Delhi",
+    "age": 26,
+    "gender": "Female",
+    "height": 168,
+    "weight": 60,
+    "bmi": 21.26,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Amit",
+    "city": "Hyderabad",
+    "age": 34,
+    "gender": "Male",
+    "height": 169,
+    "weight": 74,
+    "bmi": 25.91,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Priya",
+    "city": "Kolkata",
+    "age": 25,
+    "gender": "Female",
+    "height": 157,
+    "weight": 46,
+    "bmi": 18.66,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Suresh",
+    "city": "Jaipur",
+    "age": 38,
+    "gender": "Male",
+    "height": 172,
+    "weight": 100,
+    "bmi": 33.8,
+    "verdict": "Obese"
+  },
+  {
+    "name": "Neha",
+    "city": "Lucknow",
+    "age": 23,
+    "gender": "Female",
+    "height": 164,
+    "weight": 58,
+    "bmi": 21.56,
+    "verdict": "Normal"
+  },
+
+  {
+    "name": "Dev",
+    "city": "Delhi",
+    "age": 27,
+    "gender": "Male",
+    "height": 173,
+    "weight": 63,
+    "bmi": 21.05,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Aisha",
+    "city": "Mumbai",
+    "age": 24,
+    "gender": "Female",
+    "height": 160,
+    "weight": 65,
+    "bmi": 25.39,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Karan",
+    "city": "Pune",
+    "age": 29,
+    "gender": "Male",
+    "height": 181,
+    "weight": 82,
+    "bmi": 25.03,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Tanvi",
+    "city": "Chennai",
+    "age": 21,
+    "gender": "Female",
+    "height": 156,
+    "weight": 41,
+    "bmi": 16.85,
+    "verdict": "Underweight"
+  },
+  {
+    "name": "Rakesh",
+    "city": "Bangalore",
+    "age": 36,
+    "gender": "Male",
+    "height": 177,
+    "weight": 90,
+    "bmi": 28.73,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Simran",
+    "city": "Delhi",
+    "age": 22,
+    "gender": "Female",
+    "height": 163,
+    "weight": 54,
+    "bmi": 20.32,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Ajay",
+    "city": "Hyderabad",
+    "age": 40,
+    "gender": "Male",
+    "height": 168,
+    "weight": 97,
+    "bmi": 34.37,
+    "verdict": "Obese"
+  },
+  {
+    "name": "Pallavi",
+    "city": "Kolkata",
+    "age": 28,
+    "gender": "Female",
+    "height": 159,
+    "weight": 49,
+    "bmi": 19.38,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Nitin",
+    "city": "Jaipur",
+    "age": 33,
+    "gender": "Male",
+    "height": 175,
+    "weight": 72,
+    "bmi": 23.51,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Divya",
+    "city": "Lucknow",
+    "age": 26,
+    "gender": "Female",
+    "height": 162,
+    "weight": 68,
+    "bmi": 25.91,
+    "verdict": "Overweight"
+  },
+
+  {
+    "name": "Yash",
+    "city": "Delhi",
+    "age": 24,
+    "gender": "Male",
+    "height": 179,
+    "weight": 84,
+    "bmi": 26.22,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Shreya",
+    "city": "Mumbai",
+    "age": 23,
+    "gender": "Female",
+    "height": 158,
+    "weight": 47,
+    "bmi": 18.83,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Harsh",
+    "city": "Pune",
+    "age": 28,
+    "gender": "Male",
+    "height": 171,
+    "weight": 59,
+    "bmi": 20.18,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Muskan",
+    "city": "Chennai",
+    "age": 20,
+    "gender": "Female",
+    "height": 155,
+    "weight": 40,
+    "bmi": 16.65,
+    "verdict": "Underweight"
+  },
+  {
+    "name": "Deepak",
+    "city": "Bangalore",
+    "age": 37,
+    "gender": "Male",
+    "height": 174,
+    "weight": 93,
+    "bmi": 30.72,
+    "verdict": "Obese"
+  },
+  {
+    "name": "Ritu",
+    "city": "Delhi",
+    "age": 27,
+    "gender": "Female",
+    "height": 167,
+    "weight": 57,
+    "bmi": 20.44,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Ankit",
+    "city": "Hyderabad",
+    "age": 31,
+    "gender": "Male",
+    "height": 180,
+    "weight": 76,
+    "bmi": 23.46,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Payal",
+    "city": "Kolkata",
+    "age": 25,
+    "gender": "Female",
+    "height": 161,
+    "weight": 63,
+    "bmi": 24.3,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Gaurav",
+    "city": "Jaipur",
+    "age": 34,
+    "gender": "Male",
+    "height": 178,
+    "weight": 98,
+    "bmi": 30.93,
+    "verdict": "Obese"
+  },
+  {
+    "name": "Komal",
+    "city": "Lucknow",
+    "age": 22,
+    "gender": "Female",
+    "height": 157,
+    "weight": 45,
+    "bmi": 18.26,
+    "verdict": "Normal"
+  },
+
+  {
+    "name": "Ravi",
+    "city": "Delhi",
+    "age": 39,
+    "gender": "Male",
+    "height": 172,
+    "weight": 80,
+    "bmi": 27.04,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Sakshi",
+    "city": "Mumbai",
+    "age": 24,
+    "gender": "Female",
+    "height": 165,
+    "weight": 59,
+    "bmi": 21.67,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Varun",
+    "city": "Pune",
+    "age": 29,
+    "gender": "Male",
+    "height": 176,
+    "weight": 70,
+    "bmi": 22.6,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Bhavna",
+    "city": "Chennai",
+    "age": 27,
+    "gender": "Female",
+    "height": 160,
+    "weight": 72,
+    "bmi": 28.12,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Prakash",
+    "city": "Bangalore",
+    "age": 41,
+    "gender": "Male",
+    "height": 169,
+    "weight": 102,
+    "bmi": 35.71,
+    "verdict": "Obese"
+  },
+  {
+    "name": "Tanya",
+    "city": "Delhi",
+    "age": 23,
+    "gender": "Female",
+    "height": 162,
+    "weight": 50,
+    "bmi": 19.05,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Sanjay",
+    "city": "Hyderabad",
+    "age": 36,
+    "gender": "Male",
+    "height": 173,
+    "weight": 65,
+    "bmi": 21.72,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Kirti",
+    "city": "Kolkata",
+    "age": 28,
+    "gender": "Female",
+    "height": 158,
+    "weight": 62,
+    "bmi": 24.84,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Mohit",
+    "city": "Jaipur",
+    "age": 33,
+    "gender": "Male",
+    "height": 181,
+    "weight": 89,
+    "bmi": 27.17,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Alka",
+    "city": "Lucknow",
+    "age": 26,
+    "gender": "Female",
+    "height": 164,
+    "weight": 56,
+    "bmi": 20.82,
+    "verdict": "Normal"
+  }
+]

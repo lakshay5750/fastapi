@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+growwapi
+pyotp
+dotenv
+requests
+pandas
+numpy
